@@ -1,0 +1,12 @@
+x= input ("insert number here   ")
+if x=="ranint(0,100)": 
+    print ("you win")
+else:
+    print ("you lose")
+while input=="x":
+    input= input("insert number here")
+while input!="x":
+    print ("you lose")
+    input= input("insert number here")
+print ("you win")
+
